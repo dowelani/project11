@@ -1,0 +1,12 @@
+C:\MyData\Courses\WRAV2\2020\WRAV201 2020\Contact Sessions\Unit 5 ~ 1 - 5 June 2020 (Doubly Linked Lists)\DigiLT\Pr10T1\Pr10T1\bin\Debug\Pr10T1.exe.config
+C:\MyData\Courses\WRAV2\2020\WRAV201 2020\Contact Sessions\Unit 5 ~ 1 - 5 June 2020 (Doubly Linked Lists)\DigiLT\Pr10T1\Pr10T1\bin\Debug\Pr10T1.exe
+C:\MyData\Courses\WRAV2\2020\WRAV201 2020\Contact Sessions\Unit 5 ~ 1 - 5 June 2020 (Doubly Linked Lists)\DigiLT\Pr10T1\Pr10T1\bin\Debug\Pr10T1.pdb
+C:\MyData\Courses\WRAV2\2020\WRAV201 2020\Contact Sessions\Unit 5 ~ 1 - 5 June 2020 (Doubly Linked Lists)\DigiLT\Pr10T1\Pr10T1\obj\Debug\Pr10T1.csprojResolveAssemblyReference.cache
+C:\MyData\Courses\WRAV2\2020\WRAV201 2020\Contact Sessions\Unit 5 ~ 1 - 5 June 2020 (Doubly Linked Lists)\DigiLT\Pr10T1\Pr10T1\obj\Debug\Pr10T1.exe
+C:\MyData\Courses\WRAV2\2020\WRAV201 2020\Contact Sessions\Unit 5 ~ 1 - 5 June 2020 (Doubly Linked Lists)\DigiLT\Pr10T1\Pr10T1\obj\Debug\Pr10T1.pdb
+C:\Users\khumbelo\Downloads\WRAV\Unit 5 Practical Task Template Files and Submission File\Pr10T1\Pr10T1\bin\Debug\Pr10T1.exe.config
+C:\Users\khumbelo\Downloads\WRAV\Unit 5 Practical Task Template Files and Submission File\Pr10T1\Pr10T1\bin\Debug\Pr10T1.exe
+C:\Users\khumbelo\Downloads\WRAV\Unit 5 Practical Task Template Files and Submission File\Pr10T1\Pr10T1\bin\Debug\Pr10T1.pdb
+C:\Users\khumbelo\Downloads\WRAV\Unit 5 Practical Task Template Files and Submission File\Pr10T1\Pr10T1\obj\Debug\Pr10T1.csprojAssemblyReference.cache
+C:\Users\khumbelo\Downloads\WRAV\Unit 5 Practical Task Template Files and Submission File\Pr10T1\Pr10T1\obj\Debug\Pr10T1.exe
+C:\Users\khumbelo\Downloads\WRAV\Unit 5 Practical Task Template Files and Submission File\Pr10T1\Pr10T1\obj\Debug\Pr10T1.pdb
